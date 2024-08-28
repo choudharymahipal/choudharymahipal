@@ -14,25 +14,12 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://youtube.com/@codewithmaahi?si=n1XPL_Q0xlIyqMCt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithmaahi" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/mahi_0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi_0107" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" height="30" width="40" /></a> 
-    </td>
-    <td>
-      <a href="https://www.facebook.com/profile.php?id=100073955277141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073955277141" height="30" width="40" /></a>  
-    </td>
-  </tr>
-</table>
+  <a href="https://youtube.com/@codewithmaahi?si=n1XPL_Q0xlIyqMCt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithmaahi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mahi_0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi_0107" height="30" width="40" /></a>
+  <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" height="30" width="40" /></a> 
+  <a href="https://www.facebook.com/profile.php?id=100073955277141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073955277141" height="30" width="40" /></a>  
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -106,6 +93,7 @@
 </table>
 
 <br>
+
 #### Top Repositories
 
 <a href="https://github.com/choudharymahipal/Mahi-Pointing-Poker">
@@ -115,4 +103,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=MahiMaterialBlocks&theme=buefy" />
 </a>
 
+
+<hr>
 
