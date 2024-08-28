@@ -17,7 +17,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a>
+      <a href="https://youtube.com/@codewithmaahi?si=n1XPL_Q0xlIyqMCt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithmaahi" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/mahi_0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi_0107" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" height="30" width="40" /></a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" height="30" width="40" /></a> 
@@ -65,6 +71,9 @@
   </tr>
   <tr>
     <td>
+        <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a> 
+    </td>
+    <td>
         <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     </td>
     <td>
@@ -96,9 +105,7 @@
   </tr>
 </table>
 
-
-
-
+<br>
 #### Top Repositories
 
 <a href="https://github.com/choudharymahipal/Mahi-Pointing-Poker">
