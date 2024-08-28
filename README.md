@@ -11,6 +11,7 @@
 
 - ⚡ ** 𝗜 𝗮𝗺 𝗮 𝘁𝗲𝗰𝗵 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 , 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗲𝗮𝗰𝗵 𝗱𝗮𝘆 𝘁𝗼 𝗴𝗲𝘁 𝗺𝘆 𝗯𝗲𝘁𝘁𝗲𝗿 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝘂𝗽𝗱𝗮𝘁𝗲 𝗮𝗻𝗱 𝗼𝘂𝘁𝘀𝗵𝗶𝗻𝗲 𝗺𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝗚𝗼𝗱'𝘀 𝗽𝗹𝗮𝘆 :)**
 
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a>
@@ -18,6 +19,7 @@
 <a href="https://www.facebook.com/profile.php?id=100073955277141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073955277141" height="30" width="40" /></a>  
 </p>
 
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <table border="1">
   <tr>
@@ -91,10 +93,23 @@
   </tr>
 </table>
 
-<br>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" /></p>
+<table>
+  <tr>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
+    </td>
+    <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=choudharymahipal&show_icons=true&locale=en" alt="choudharymahipal" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choudharymahipal&show_icons=true&locale=en" alt="choudharymahipal" /></p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" /></p>
