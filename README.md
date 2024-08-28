@@ -3,21 +3,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=choudharymahipal" alt="choudharymahipal" /></a> </p>
 
+
+<br><br>
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=choudharymahipal&repo=github-visitors-badge&countColor=%237B1E7A)
 
 - 👨‍💻 You can check my portfolio at [https://sites.google.com/view/mahipalchoudhary](https://sites.google.com/view/mahipalchoudhary)
 
 - 📫 How to reach me **mschoudhary81@gmail.com**
 
-- ⚡ ** 𝗜 𝗮𝗺 𝗮 𝘁𝗲𝗰𝗵 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 , 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗲𝗮𝗰𝗵 𝗱𝗮𝘆 𝘁𝗼 𝗴𝗲𝘁 𝗺𝘆 𝗯𝗲𝘁𝘁𝗲𝗿 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝘂𝗽𝗱𝗮𝘁𝗲 𝗮𝗻𝗱 𝗼𝘂𝘁𝘀𝗵𝗶𝗻𝗲 𝗺𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝗚𝗼𝗱'𝘀 𝗽𝗹𝗮𝘆 :)**
+- ⚡ 𝗜 𝗮𝗺 𝗮 𝘁𝗲𝗰𝗵 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 , 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗲𝗮𝗰𝗵 𝗱𝗮𝘆 𝘁𝗼 𝗴𝗲𝘁 𝗺𝘆 𝗯𝗲𝘁𝘁𝗲𝗿 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝘂𝗽𝗱𝗮𝘁𝗲 𝗮𝗻𝗱 𝗼𝘂𝘁𝘀𝗵𝗶𝗻𝗲 𝗺𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝗚𝗼𝗱'𝘀 𝗽𝗹𝗮𝘆 :)
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" height="30" width="40" /></a> 
-<a href="https://www.facebook.com/profile.php?id=100073955277141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073955277141" height="30" width="40" /></a>  
-</p>
+<tabel>
+  <tr>
+    <td>
+      <a href="https://x.com/mschoudhary81?s=21&t=U8gbrAg0pQZUL0J3ebGzoQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamanna01876926" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahipal-singh-choudhary-b0290494/" height="30" width="40" /></a> 
+    </td>
+    <td>
+      <a href="https://www.facebook.com/profile.php?id=100073955277141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073955277141" height="30" width="40" /></a>  
+    </td>
+  </tr>
+</table>
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
