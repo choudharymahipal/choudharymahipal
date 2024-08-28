@@ -4,8 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=choudharymahipal" alt="choudharymahipal" /></a> </p>
 
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=choudharymahipal&left_color=gray&right_color=blue)
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=choudharymahipal&repo=github-visitors-badge&countColor=%237B1E7A)
 
 - 👨‍💻 You can check my portfolio at [https://sites.google.com/view/mahipalchoudhary](https://sites.google.com/view/mahipalchoudhary)
