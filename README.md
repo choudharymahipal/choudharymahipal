@@ -108,15 +108,15 @@
 <table border="0" style="text-align:center;">
   <tr>
     <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
     </td>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=choudharymahipal&show_icons=true&locale=en" alt="choudharymahipal" />
+        <img src="https://github-readme-stats.vercel.app/api?username=choudharymahipal&show_icons=true&locale=en" alt="choudharymahipal" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" />
     </td>
   </tr>
 </table>
