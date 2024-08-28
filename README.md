@@ -95,7 +95,7 @@
 
 <br><br>
 
-<table border="0">
+<table border="0" style="text-align:center;">
   <tr>
     <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
