@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular, .Net, SQL Server, Boostrap and HTML/CSS**
 
-- 📫 How to reach me **mschoudhary81@gmail.com**
+- 📫 How to reach me mschoudhary81@gmail.com
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
@@ -75,9 +75,9 @@
   </tr>
 </table>
 
-<br>
-<table border="0" style="text-align:center;">
-  <tr>
+<br><br>
+<table border="0">
+  <tr style="text-align:center;">
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
     </td>
@@ -85,7 +85,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=choudharymahipal&show_icons=true&locale=en" alt="choudharymahipal" />
     </td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td colspan="2">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" />
     </td>
@@ -102,7 +102,3 @@
 <a href="https://github.com/choudharymahipal/MahiMaterialBlocks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=MahiMaterialBlocks&theme=buefy" />
 </a>
-
-
-<hr>
-
