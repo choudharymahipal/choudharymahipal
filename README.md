@@ -21,7 +21,7 @@
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
-<table border="1">
+<table border="0">
   <tr>
     <td>
         <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -95,7 +95,7 @@
 
 <br><br>
 
-<table>
+<table border="0">
   <tr>
     <td>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharymahipal&show_icons=true&locale=en&layout=compact" alt="choudharymahipal" />
@@ -105,7 +105,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&" alt="choudharymahipal" />
     </td>
   </tr>
