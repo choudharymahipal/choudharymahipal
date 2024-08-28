@@ -1,5 +1,3 @@
-[![Neon Green Futuristic Twitch Banner](https://user-images.githubusercontent.com/67545415/137700600-53dce5cd-dcbf-48f2-b7f8-6302ae42c691.png)
-](https://choudharymahipal.github.io/Portfolio/) 
 <h1 align="center">Hi 👋, I'm Mahipal Choudhary</h1>
 <h3 align="center">Trying to figure-out stuff!!</h3>
 
