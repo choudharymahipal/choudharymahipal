@@ -1,6 +1,6 @@
 # Hi, I'm Mahipal Choudhary 
-[![Holopin Board](https://holopin.me/choudharymahipal)](https://holopin.io/@choudharymahipal)
-<br>
+[![An image of @choudharymahipal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/choudharymahipal)](https://holopin.io/@choudharymahipal)
+
 ### 💫 About Me:
 👨‍💻 You can check my portfolio at https://sites.google.com/view/mahipalchoudhary<br>🌱 I’m currently learning React and NodeJs<br>💬 Ask me about Angular, .Net, SQL Server, Boostrap and HTML/CSS<br>📫 How to reach me mschoudhary81@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
 
@@ -22,12 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=choudharymahipal&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=choudharymahipal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br>
 
 #### Top Repositories
 
