@@ -1,4 +1,10 @@
-# Hi, I'm Mahipal Choudhary 
+<h1 align="center">Hi 👋, I'm Mahipal Choudhary</h1>
+<h3 align="center">A passionate developer and Software Engineer from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=411482&width=380&height=28&lines=Passionate+Individual..;Empowering+Others;Thanks+for+watching+my+profile....&center=true" />
+</p>
+
 [![An image of @choudharymahipal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/choudharymahipal)](https://holopin.io/@choudharymahipal)
 
 ### 💫 About Me:
