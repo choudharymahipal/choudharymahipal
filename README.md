@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=411482&width=380&height=28&lines=Passionate+Individual..;Empowering+Others;Thanks+for+watching+my+profile....&center=true" />
 </p>
 
-[![An image of @choudharymahipal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/choudharymahipal)](https://holopin.io/@choudharymahipal)
+[![An image of @choudharymahipal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/choudharymahipal0)](https://holopin.io/@choudharymahipal0)
 
 ### 💫 About Me:
 👨‍💻 You can check my portfolio at https://sites.google.com/view/mahipalchoudhary<br>🌱 I’m currently learning React and NodeJs<br>💬 Ask me about Angular, .Net, SQL Server, Boostrap and HTML/CSS<br>📫 How to reach me mschoudhary81@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
