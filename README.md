@@ -21,28 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=choudharymahipal&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=choudharymahipal&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=choudharymahipal&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=choudharymahipal&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=choudharymahipal&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=choudharymahipal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-#### Top Repositories
-
-<a href="https://github.com/choudharymahipal/Mahi-Pointing-Poker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=Mahi-Pointing-Poker&theme=buefy" />
-</a>
-<a href="https://github.com/choudharymahipal/MahiMaterialBlocks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=MahiMaterialBlocks&theme=buefy" />
-</a>
-<br>
-<a href="https://github.com/choudharymahipal/countdown-timer-library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=countdown-timer-library&theme=buefy" />
-</a>
-<a href="https://github.com/choudharymahipal/ng-custom-pipe-library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=choudharymahipal&repo=ng-custom-pipe-library&theme=buefy" />
-</a>
